@@ -1,0 +1,24 @@
+.h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
+.article{
+    width: auto;
+    height: auto;
+    font-size: 0.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: #d8d6b2;
+    border-left: 4px solid #000;
+    border-radius: 0.3rem;
+    border: 0.3em solid rgb(14, 10, 9);
+    margin: 2px;
+    color:rgb(0, 0, 0);
+}
+
+.article:hover{
+    border: 0.3em solid rgb(112, 111, 116);
+    border-left: 4px solid rgb(235, 235, 238); 
+    color: rgb(170, 170, 170); 
+}
